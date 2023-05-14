@@ -1,0 +1,7 @@
+/AlphaRTC
+/vmaf
+.vscode/
+__pycache__/
+log/*
+/testmedia/*
+!/testmedia/origin.mov
